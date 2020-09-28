@@ -1,0 +1,54 @@
+body {
+  padding: 10px;
+  background-color: rgb(245, 230, 238);
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.dados-pessoais {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;  
+  align-items: center;
+}
+
+li {
+  margin: 10px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+h3 {
+  margin-left: 18px;
+  padding: 5px;
+}
+
+#dados {
+  align-items: center;
+}
+
+table, tr, td, th {
+  padding: 5px;
+  border: 1.5px solid gray;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+th {
+  background-color: rgb(245, 163, 241);
+}
+
+span {
+  margin-left: 36px;
+  font-weight: bold;
+}
+
